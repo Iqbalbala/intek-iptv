@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="IPTV",GTV
+#EXTINF:-1 group-title="IPTV",IQBAL
 http://194.233.77.149:25461/live/lokalpremi/Zud2JZxqJI/4.m3u8
 #EXTINF:-1 group-title="IPTV",SCTV
 http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
