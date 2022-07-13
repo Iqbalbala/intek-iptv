@@ -1,4 +1,0 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19926609_ico.png?ts=1654729161" group-title="IPTV",SCTV
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-https://etslive-2-vidio-com.akamaized.net/exp=1657390450~acl=/vp9/204_stream.mpd!/vp9/204/*!/vp9/*/204_stream.mpd!/vp9/*/204/*~hmac=d82eb3dd8975298f9d5ad28b7fc3a715b045ff68e07a8df050641733ec43a8c5/vp9/204_stream.mpd
