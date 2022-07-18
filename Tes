@@ -74,7 +74,10 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/1000/default_ott.mpd
 #EXTVLCOPT:http-referrer=https://astrogo.astro.com.my #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Astro_Oasis_2019.png/revision/latest?cb=20190111152636",ASTRO OASIS HD 
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2505/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142670.m3u8 
+
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD https://m3u-editor.com/serve/251f4150-88de-11ec-8657-6776f99ecd96/494142670 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Astro_Warna_v1.png",Astro Warna HD https://nonton.site:8443/live/mustakim/mustakim/37335.m3u8
 
 
  
@@ -86,7 +89,9 @@ EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/983556501141770240/KZq2
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/5024 #EXTINF:-1 tvg-logo="https://linear-poster.astro.com.my/prod/logo/TA-DAA!.png",TA-DAA! https://linearjitp-playback.astro.com.my/dash-wv/linear/5024/default_ott.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 #EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png", ANIMAX https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1 #EXTINF:-1 tvg-logo="https://www.animax-asia.com/sites/animax-asia.com/files/logos/animax-logo_0.png",ANIMAX 
+https://liveanevia.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd http://210.210.155.35/session/fb26cc6e-6a2f-11e9-800a-90c6aac61e2a/dr9445/h/h144/02.m3u8
 
 
  
