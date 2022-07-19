@@ -1,18 +1,34 @@
-
-#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" #EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" #EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/astro.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/unifitv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/mytv.xml" 
+#EXTM3U url-tvg="https://weareblahs.github.io/epg/rtmklik.xml" 
+#EXTM3U x-tvg-url=https://bit.ly/aqfadtvepg refresh="1440" max-conn="1" refresh="24"
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/44pt1PT/LOGO2.png" group-title="VOD Live",VOD-Malay 
 http://139.99.56.106:2082/sakinah1/sakinah1/12849
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV1_v1.png" , TV1 HD 
-https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd 
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/101.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",
-TV2 HD https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TV2_v1.png",TV2 HD 
+https://rtmlive05tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/05-manifest.mpd 
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3 #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97 #EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
+https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142507.m3u8 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/106_144.png", TV3 
+https://api.samsam123.name.my/mediaprima_dailymotion/beta.php?channels=tv3 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3afe30ee4ea24a67fe5a2ef06e83db0b&key=27a2f71d87bf5eb105af096fb6605d97 
+#EXTINF:-1 tvg-logo="https://iili.io/1NKfxR.png",TV3 
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live03.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",TV6 
+https://rtmlive07.secureswiftcontent.com/rtmchannel/07-manifest.m3u8|Referer=https://rtmklik.rtm.gov.my 
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/07-manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://didik.tv/images/logotv2.png", NTV7 
 https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/DidikTVKPM.m3u8|Referer=https://www.dailymotion.com
@@ -26,21 +42,30 @@ https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/T
 EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV AlHijrah 
 https://unifi-live05.secureswiftcontent.com/UnifiHD/live07.mpd 
 
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/Al-Hijrah_v1.png",TV AlHijrah 
 http://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey #EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png", TV Okey 
+#EXTVLCOPT:http-referrer=https://rtmklik.rtm.gov.my 
+https://rtmlive02tv.secureswiftcontent.com/rtmchannel/02-manifest.mpd 
+https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Okey.m3u8|Referer=https://rtmklik.rtm.gov.my
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphaKODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ottweb.hypp.tv:8064?deviceId=ODk2ZmI5ZjctOWE3MS0zZmQ5LTlmNzktZGE1NzgzM2E2NGFk 
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png",Dunia Sinema HD 
+http://1.9.62.158/PLTV/88888888/224/3221227631/3221227631.mpd
 
-#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 AWESOME TV #KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211/ https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://aqfadtv.astradamy.com/logos/AwesomeTVWhite.png",123 AWESOME TV 
+#KODIPROP:inputstream.adaptive.license_type=clearkey #KODIPROP:inputstream.adaptive.license_key=https://linearjitp-playback-astro.astradamy.com/dash-ck/linear/211/ 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/211/default_ott.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/MYZARtv/myzar/main/SUKE_TV_Logo.png",116 Suke TV 
+https://github.com/AqFad2811/randomlivefromyt2/raw/main/SukeTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim http://edge.vediostream.com/abr/tvikim/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z0dyJK7.jpg",TV Ikim 
+http://edge.vediostream.com/abr/tvikim/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://linear-poster.astro.com.my/prod/logo/TVSarawak.png", TVS HD https://agsplayback01.astro.com.my:443/CH1/master_AGS_TVS_04.m3u8
 
