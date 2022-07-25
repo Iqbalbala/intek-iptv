@@ -1,0 +1,6 @@
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
+#EXTINF:-1 tvg-id="SCTV.ID" tvg-name="SCTV" tvg-language="English" tvg-country="US" tvg-url="http://195.154.221.171/epg/guide.xml.gz" timeshift="3" catchup="shift" catchup-days="3" catchup-source="https://m3u-server/hls-apple-s4-c494-abcdef.m3u8?utc=325234234&lutc=3123125324" tvg-logo="http://example.com/logo.png" group-title="News",SCTV
+#EXTGRP:News
+#EXTVLCOPT:http-referrer=http://m.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/102.0 AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/102.0 Mobile/15E148 Safari/605.1.15
+https://app-etslive-2.vidio.com/live/204/master.m3u8
