@@ -3,4 +3,5 @@
 #EXTGRP:News
 #EXTVLCOPT:http-referrer=http://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/102.0 AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/102.0 Mobile/15E148 Safari/605.1.15
+https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 https://app-etslive-2.vidio.com/live/204/master.m3u8
