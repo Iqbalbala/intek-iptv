@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet
-		xmlns:xsl="http://www.w3.org/1999/xlink"
+		xmlns:xsl="http://www.w3.org/2001/XMLSchema-instance"
 		xmlns:m="urn:mpeg:dash:schema:mpd:2011"
 		version="1.0">
 	<xsl:output encoding="utf-8" method="text" omit-xml-declaration="yes" />
@@ -19,7 +19,7 @@
 	</xsl:template>
 
 	<xsl:template match="m:Representation">
-		<xsl:text>#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=</xsl:text>
+		<xsl:text>#EXT-X-STREAM-ID="mp4a_66000_eng=2" bandwidth="66000" audioSamplingRate="22050" codecs="mp4a.40.2">
 		<xsl:value-of select="@bandwidth" />
 		<xsl:if test="@width and @height">
 			<xsl:text>,RESOLUTION=</xsl:text>
