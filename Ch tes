@@ -3,5 +3,6 @@
 #EXTGRP:News
 #EXTVLCOPT:http-referrer=http://m.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/102.0 AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/102.0 Mobile/15E148 Safari/605.1.15
+https://app-etslive-2.vidio.com/live/206/master.m3u8?auth=eyJhbGciOiJIUzUxMiJ9.eyJhdWQiOiJ2aWRpby1wbnMtdG9rZW4iLCJleHAiOjE2NjEzNjU5OTgsImlkIjo5NjM5MjQ5MCwibmFtZSI6IkJhbGEiLCJ1c2VybmFtZSI6InVzZXJfNjU5OV9mM2YwZjkifQ.YIzVmsyvOVCzU0Z6-Zk53fNWfh7pY1SCxDJW65trlmXsGFis9pdeMacD47i0J7HbAFaFA7kwWST88cGlmSAkAg
 https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
 https://app-etslive-2.vidio.com/live/204/master.m3u8
