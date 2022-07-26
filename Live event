@@ -1,1 +1,32 @@
-http://m3u.ch/pl/0dfa5d3651ed17d6d74f01f7be770819-12de3d65e7281e9366b4dc13f933a1fc.m3u
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYvO70ssD4kLn7R7vppqRUFRSel-VC1h7PA&usqp=CAU" group-title="IPTV",PERSIKABO VS PERSEBAYA
+https://etslive-2-vidio-com.akamaized.net/exp=1658769404~acl=/vp9/9309_stream.mpd!/vp9/9309/*!/vp9/*/9309_stream.mpd!/vp9/*/9309/*~hmac=b84bcb34b7654f7cb3d9e5f75eed921a74dad8db3318d7b619674a3d862a3198/vp9/9309_stream.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYvO70ssD4kLn7R7vppqRUFRSel-VC1h7PA&usqp=CAU" group-title="IPTV",PERSIKABO VS PERSEBAYA
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index_video_1_0_523273093018.mp4?m=1641281615
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXYvO70ssD4kLn7R7vppqRUFRSel-VC1h7PA&usqp=CAU" group-title="IPTV",Trial bein
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",trial 2
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjcwYWI2ZGEtYzE4Yi0zZWFlLTljOWYtZGEzOGIwYWFjN2I1
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="IPTV",trial 3
+https://production-premium-vidio-bein3.akamaized.net/out/v1/3f1c8625c65f448f97b055eed9d6fa31/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=https://o554588.ingest.sentry.io/api/6152382/envelope/?sentry
+#EXTINF:0 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19756938_ico.png?ts=1654862839" group-title="IPTV",LIVE Stream 1
+https://production-drm-vidio-com-event-12.akamaized.net/out/v1/d43b8328b95d498aae5df88fd77f6646/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=0328a153c2994b279ab03ab25102fc59&key=2cc69eaaa858fed24c5623654daf8d3d
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20238523_ico.png?ts=1655201862" group-title="IPTV",LIVE Stream 2
+https://etslive-2-vidio-com.akamaized.net/exp=1658768905~acl=/hls-b/ingest_6399_*/*~hmac=a3d61a542a3d6c2d7cc2773ab1e14df35087384a6f46db19d2a5925de024cbcf/hls
