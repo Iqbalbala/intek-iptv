@@ -21,17 +21,21 @@ https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36 
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_key=https://udrmv3.kaltura.com/cenc/widevine/license?custom_data=eyJjYV9zeXN0ZW0iOiJodHRwczovL3Jlc3QtYXMub3R0LmthbHR1cmEuY29tL2FwaV92My9zZXJ2aWNlL2Fzc2V0RmlsZS9hY3Rpb24vZ2V0Q29udGV4dD9rcz1kako4TVRRM2ZNZ1c5MzllTktzNE1yZFBiUG1qY25TdnlkMVVVb1NYV05rT2NpN2VaVmYxQXBFOF9MR0NMbWJYQ0ROeFpKQ1ZIc2FjVWpoZkswVW8wNlpvam5paE1CR1pnVDJhYkFGODl3UDZzeEVfVVlKMjY0VkppWlRrMGs5SU1UaGdnNHZYbVNpUmNjZUItWFRrcDAxTF9hOVhpWmRLRmtLY1dLbVBkLUZwcFVFWjdFQW9kdWNieEhYNzJsbFU1Y2FrWXAxUjFKek1rM3VYdU1FSTc1a2dqS1VwZ1NfQW5XakdZUGtsQndVM2ZpRlI3RE03T3IyVHdyR3B0UWRCTC1MNFpYTmVLd2N4bUs1NnRPS2VKMjY5Smp1ZFpmRTNLMWx0UFMydEVPQWlyZ2pzZ2cyT3R4Vk9UdWhGR3VWNXVEcXg0OGJuVWh4Zzhza0hDZkx4QlNTcDVnZGdKdWs9JmNvbnRleHRUeXBlPW5vbmUmaWQ9MTA5MzgxNTAiLCJhY2NvdW50X2lkIjoyMDgyMzExLCJjb250ZW50X2lkIjoiZnRhX2NoNV9kYXNoX3dlYl9kcm0iLCJmaWxlcyI6IiIsInVzZXJfdG9rZW4iOiJkako4TVRRM2ZNZ1c5MzllTktzNE1yZFBiUG1qY25TdnlkMVVVb1NYV05rT2NpN2VaVmYxQXBFOF9MR0NMbWJYQ0ROeFpKQ1ZIc2FjVWpoZkswVW8wNlpvam5paE1CR1pnVDJhYkFGODl3UDZzeEVfVVlKMjY0VkppWlRrMGs5SU1UaGdnNHZYbVNpUmNjZUItWFRrcDAxTF9hOVhpWmRLRmtLY1dLbVBkLUZwcFVFWjdFQW9kdWNieEhYNzJsbFU1Y2FrWXAxUjFKek1rM3VYdU1FSTc1a2dqS1VwZ1NfQW5XakdZUGtsQndVM2ZpRlI3RE03T3IyVHdyR3B0UWRCTC1MNFpYTmVLd2N4bUs1NnRPS2VKMjY5Smp1ZFpmRTNLMWx0UFMydEVPQWlyZ2pzZ2cyT3R4Vk9UdWhGR3VWNXVEcXg0OGJuVWh4Zzhza0hDZkx4QlNTcDVnZGdKdWs9IiwidWRpZCI6IiIsImFkZGl0aW9uYWxfY2FzX3N5c3RlbSI6MTQ3fQ%3d%3d&signature=7Hoom%2fDEnkr7TjQjlmq%2b9v%2f5%2ba8%3d
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN2
 https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm.ors.at/acquire-license/widevine?BrandGuid=13f2e056-53fe-4469-ba6d-999970dbe549&userToken=<B/O6n7F4lmuS0eET36pS59JqUq49CmltsHEA//em2F3yDVBzrLTt6FgSH/F/r9P6hFoLgiinoqW7jn8Sq3OEDg==>||R{SSM}|
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN3
 https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
 
- 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=607b7d22565c4bc3b95ff6c33ce65425&key=28cc5367df666c44be4382e64af64d57
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN4
+https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3e428ac486319/index.mpd
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YWY0OTBlZjEtODAyNC0zZTA0LWFhYzMtY2ZmMGE4NjVjZjU1
 #EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png" group-title="Indonesia Channel",GLOBAL TV HD
