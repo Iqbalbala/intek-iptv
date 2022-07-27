@@ -22,6 +22,12 @@ https://production-premium-vidio-bein1.akamaized.net/out/v1/56854ffa2e2541e7bdb3
 #EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN1
 https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index.m3u8
 
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN1 token
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index.m3u8?token="JkhdAsz4ZyRLmBpKF4ko3GurKOWhVDFbYt7fciMTz6LTtrfu0TQcp4Fb5Ki3jKnBPZtxybT5+pNpIaCff8aT8Q=="
+
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.postimg.cc/zXLh0rWm/RCTI.png" group-title="Indonesia Channel",BEIN1 token
+https://production-premium-vidio-bein1.akamaized.net/out/v1/0bfcf5c874644ba899e9e31a591e559b/index.m3u8?token=JkhdAsz4ZyRLmBpKF4ko3GurKOWhVDFbYt7fciMTz6LTtrfu0TQcp4Fb5Ki3jKnBPZtxybT5+pNpIaCff8aT8Q==
+
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
