@@ -1,9 +1,5 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml"
-#EXTINF:-1 tvg-id="SCTV.ID" tvg-name="SCTV" tvg-language="English" tvg-country="US" tvg-url="http://195.154.221.171/epg/guide.xml.gz" timeshift="3" catchup="shift" catchup-days="3" catchup-source="https://m3u-server/hls-apple-s4-c494-abcdef.m3u8?utc=325234234&lutc=3123125324" tvg-logo="http://example.com/logo.png" group-title="News",SCTV
-#EXTGRP:News
-#EXTVLCOPT:http-referrer=http://m.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Android 12; Mobile; rv:68.0) Gecko/68.0 Firefox/102.0 AppleWebKit/605.1.15 (KHTML, like Gecko) FxiOS/102.0 Mobile/15E148 Safari/605.1.15
-https://app-etslive-2.vidio.com/live/206/master.m3u8?auth=aFErdkFlK1BDbXFMc3JNQ2p3QjFxbE1hTmwxQWViMUpLOHhjVmdYWVRnYlU3eUppNmhFR25HTHZUR1hXZnQxdnpMVG5lSWJOR0NxTUlmbi9EZFVCQWlueWJIVTFMYWhnek4rUFNvRnZRVHpEYlFqQ1VSY2F3Rm41SVZ3eWxzVlNmWnhyQVJjeDF1ZStCd05zV2VBMUNiSU84QTZNNXB1Wi9jUDRzd2NEb3R2Qys3YW9wKy85OEU1R0w5aXNocHdLd0dOS3A3Zkl6TWtIa2RtRVhkTEpZZ0F2eVE2aGpZNEtpVUtRZDBaVWFqNGhsSFNKcjVkM0xkUFk4T2VTNzhlWVVrR0hLa3NLSGtnR21FRSs5bzZRL2NDWnBIYll6WkRCMUcyZjZkY1ZudDdJR254Z2s1aHpWTE8yYjB6UHVmeEJraHJhQjEyZEhpRWZYSFdLeFVlYW
-https://app-etslive-2.vidio.com/live/206/master.m3u8?auth=eyJhbGciOiJIUzUxMiJ9.eyJhdWQiOiJ2aWRpby1wbnMtdG9rZW4iLCJleHAiOjE2NjEzNjU5OTgsImlkIjo5NjM5MjQ5MCwibmFtZSI6IkJhbGEiLCJ1c2VybmFtZSI6InVzZXJfNjU5OV9mM2YwZjkifQ.YIzVmsyvOVCzU0Z6-Zk53fNWfh7pY1SCxDJW65trlmXsGFis9pdeMacD47i0J7HbAFaFA7kwWST88cGlmSAkAg
-https://etslive-2-vidio-com.akamaized.net/vp9/204_stream.mpd
-https://app-etslive-2.vidio.com/live/204/master.m3u8
+#EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m.vidio.com/
+#EXTINF:-1 group-title="IPTV" ch-number="" tvg-id="" tvg-chno="RTMK01" tvg-logo="http://rtm.samsam123.tk/Channel%20Logo/TV1.jpg",BEIN [HLS]
+https://app-etslive-2.vidio.com/live/204/master.m3u8|Referer=https://m.vidio.com/live/204-sctv
